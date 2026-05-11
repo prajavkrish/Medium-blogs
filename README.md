@@ -33,7 +33,9 @@ Topics Covered:
 - Process creation monitoring
 
 ---
+# 🚨 DirtyFrag Linux Vulnerability Research
 
+A practical cybersecurity write-up documenting my hands-on analysis of the DirtyFrag Linux privilege escalation vulnerability, including lab testing, root escalation behavior, security impact, DFIR perspective, and mitigation strategies.
 Spent some time researching and testing the DirtyFrag Linux privilege escalation vulnerability inside a controlled lab environment to better understand how kernel-level flaws can impact system security.
 
 In this write-up, I explored:
