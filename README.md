@@ -34,6 +34,22 @@ Topics Covered:
 
 ---
 
+Spent some time researching and testing the DirtyFrag Linux privilege escalation vulnerability inside a controlled lab environment to better understand how kernel-level flaws can impact system security.
+
+In this write-up, I explored:
+
+Linux privilege escalation behavior
+Root access escalation from a low-privileged user
+Security impact and attack surface
+DFIR and SOC investigation perspective
+Detection and mitigation strategies
+
+Working on practical labs like this helps me better understand real-world post-exploitation techniques and defensive monitoring approaches used in modern SOC environments.
+
+📝 Read the full blog below:
+
+Medium Blog — Inside DirtyFrag: How a Low-Privilege Linux User Became Root
+https://medium.com/@prajavkrishnaofficial/understanding-the-dirtyfrag-linux-vulnerability-from-low-privilege-user-to-root-access-cd23a02719a9
 # Upcoming Write-Ups
 
 - Basic DFIR Workflow: From Alert to Investigation
